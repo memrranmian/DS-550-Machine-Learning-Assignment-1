@@ -1,0 +1,34 @@
+# Python temporary & bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual Environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# IDE / Editor configuration & metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS & temporary scratch files
+tmp/
+*.tmp
+*.log
+q4_scatter_check.png
+Assignment_1_DS550.ipynb
