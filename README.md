@@ -49,6 +49,7 @@ Assignment 1/
 │       └── Q4.zip                             # Original archive
 │
 ├── .gitignore                                 # Git ignore file excluding temporary/checkpoint files
+├── requirements.txt                           # Project dependencies and environment requirements
 └── README.md                                  # Repository documentation (this file)
 ```
 
@@ -171,9 +172,9 @@ Binary classification task over two continuous features $(x_1, x_2)$ across 80 t
 
 ### Prerequisites
 * Python 3.9+
-* Required libraries:
+* Install all required dependencies using `requirements.txt`:
   ```bash
-  pip install numpy pandas matplotlib scikit-learn nbformat
+  pip install -r requirements.txt
   ```
 
 ### Running the Python Scripts

@@ -1,0 +1,7 @@
+# DS-550 Machine Learning - Assignment 1 Dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+scikit-learn>=1.2.0
+nbformat>=5.9.0
+notebook>=6.5.0
